@@ -1,4 +1,3 @@
-CREDITS TO MY_L0V331 OWNER/DEVELOPER MADE WITH ❤️ 
 local Players = game:GetService((function() local _s="" for _,v in ipairs({80,108,97,121,101,114,115}) do _s=_s..string.char(v) end return _s end)())
 local RunService = game:GetService((function() local _s="" for _,v in ipairs({82,117,110,83,101,114,118,105,99,101}) do _s=_s..string.char(v) end return _s end)())
 local _lIlOlundefined0IIIII = game:GetService((function() local _s="" for _,v in ipairs({85,115,101,114,73,110,112,117,116,83,101,114,118,105,99,101}) do _s=_s..string.char(v) end return _s end)())
